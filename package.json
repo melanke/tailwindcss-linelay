@@ -1,0 +1,28 @@
+{
+  "name": "tailwindcss-linelay",
+  "version": "1.0.0",
+  "description": "A flex simplification that works with 3 classes: horiz, verti and weight",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melanke/tailwindcss-linelay.git"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "plugin",
+    "tailwindcss-plugin"
+  ],
+  "author": "melanke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/melanke/tailwindcss-linelay/issues"
+  },
+  "homepage": "https://github.com/melanke/tailwindcss-linelay#readme",
+  "devDependencies": {
+    "lodash": "^4.17.5"
+  }
+}
